@@ -87,6 +87,6 @@ To create an audio,mp3 file, type this code inside read_audio function:
 ---
 
 ### The Sources
-* https://cloud.ibm.com/apidocs/assistant-v2?code=go
+* https://cloud.ibm.com/apidocs/assistant-v2
 * https://youtu.be/YCyuZM454_I
 * https://youtu.be/A9_0OgW1LZU
